@@ -1,5 +1,11 @@
 # [![natalie cervantes header](https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/github-header.png)](https://nataliecervantes.com)
 
+<p align='center'>
+    <a href="https://www.instagram.com/cnatalie425/"><img height="30" src="https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/nataliecervantes/"><img height="30" src="https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/softwarenomad"><img height="30" src="https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/twitter-circle-blue.png?raw=true"></a>
+</p>
+
 ### Hi there 👋
 
 <!--
