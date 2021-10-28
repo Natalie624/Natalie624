@@ -8,9 +8,9 @@
 
 ### Hi there 👋
 
-I'm Natalie, a girly-girl who also likes to code. I'm partial to creating awesome websites and love working with Jamstack architecture. Netlify and Gatsby are my jam and Contentful is my go-to headless CMS of choice. I'm still a bit of newbie when it comes to getting my feet wet in the depths of programming but I have been working with software teams and managing software product roll-outs for years! So its about time I start coding stuff myself, I'd say! Here are a few of my projects - some while working with First String Digital. I'm working up the courage and confidece to start contributing to the lovely open-source community that has been my savior on more than one occasion. Feel free to reach out to me with questions, collaborations, or anything else tech related. 
+I'm Natalie, a proudly feminine chica who's all about upendinig the sterotypes of female-coders. I'm partial to creating awesome websites and love working with Jamstack architecture. Netlify and Gatsby are my jam (pun intended!) and Contentful is my go-to headless CMS of choice. I have been working with software teams and managing software product roll-outs for years - all while proudly donning my Louboutins! No reason why one can't be both smart and fashionable! Here are a few of my projects (some public some not). Feel free to reach out to me with questions, collaborations, or anything else tech related. 
 
-Fun Fact: I've lived in 4 different countries. I'm currently hanging-out in Baja California, Mexico trying to speak better Spanish than my last name would indicate that I do. 
+Fun Fact: I've lived in 4 different countries. I last spent several years at the southern tip of Baja California, Mexico trying to speak better Spanish than my last name would indicate that I do. 
 
 <!--
 **Natalie624/Natalie624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
