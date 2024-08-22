@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Natalie, I enjoy creating awesome modern enterprise web properties for large and small businesses. I love using the latest tools and technology working with Jamstack architecture. I have been working with software teams and managing software product roll-outs for nearly two decades - all while proudly donning my Louboutins! No reason why one can't be both smart and fashionable! Here are a few of my projects (some public some not). Feel free to reach out to me with questions, collaborations, or anything else tech related. 
+I'm Natalie, I enjoy creating awesome modern enterprise web properties for large and small businesses. I love using the latest tools and technologies. I specialize in Jamstack architecture using API-first tools and services to deliver scalable and flexible implementations. I have been working with and managing software teams and high profile product roll-outs for nearly two decades - all while proudly donning my Louboutins! No reason why one can't be both smart and fashionable! Here are a few of my projects (some public some not). 
 
 Connect with me: &nbsp; &nbsp;<a href="https://www.linkedin.com/in/nataliecervantes/"><img height="30" src="https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
