@@ -1,14 +1,8 @@
 # [![natalie cervantes header](https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/github-header-2024.png)](https://nataliecervantes.com)
 
-<p align='center'>
-    <a href="https://www.instagram.com/cnatalie425/"><img height="30" src="https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/nataliecervantes/"><img height="30" src="https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/softwarenomad"><img height="30" src="https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/twitter-circle-blue.png?raw=true"></a>
-</p>
-
 ### Hi there 👋
 
-I'm Natalie, I enjoy hobby programming and am partial to creating awesome websites. I love working with Jamstack architecture. Netlify and Gatsby.js are my tools of choice and Contentful is my go-to headless CMS. I have been working with software teams and managing software product roll-outs for years - all while proudly donning my Louboutins! No reason why one can't be both smart and fashionable! Here are a few of my projects (some public some not). Feel free to reach out to me with questions, collaborations, or anything else tech related. 
+I'm Natalie, I enjoy creating awesome modern enterprise web properties for large and small businesses. I love using the latest tools and technology working with Jamstack architecture. I have been working with software teams and managing software product roll-outs for nearly two decades - all while proudly donning my Louboutins! No reason why one can't be both smart and fashionable! Here are a few of my projects (some public some not). Feel free to reach out to me with questions, collaborations, or anything else tech related. Connect with me on <a href="https://www.linkedin.com/in/nataliecervantes/"><img height="30" src="https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
 Fun Fact: I've lived in 4 different countries. I last spent several years at the southern tip of Baja California, Mexico trying to speak better Spanish than my last name would indicate that I do!
 
