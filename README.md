@@ -1,4 +1,4 @@
-# [![natalie cervantes header](https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/github-header.png)](https://nataliecervantes.com)
+# [![natalie cervantes header](https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/github-header-2024.png)](https://nataliecervantes.com)
 
 <p align='center'>
     <a href="https://www.instagram.com/cnatalie425/"><img height="30" src="https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
