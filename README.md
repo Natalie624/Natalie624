@@ -1,4 +1,4 @@
-# [![natalie cervantes header](https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/github-header-2024.png)](https://nataliecervantes.com)
+# [![natalie cervantes header](https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/githubHeader_2024.png)](https://nataliecervantes.com)
 
 ### Hi there 👋
 
