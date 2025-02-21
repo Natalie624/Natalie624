@@ -2,7 +2,12 @@
 
 ### Hi there 👋
 
-I'm Natalie, I enjoy creating awesome modern enterprise web properties and applications for large and small businesses. I love using the latest tools and technologies. I specialize in Jamstack architecture using API-first tools and services to deliver scalable and flexible implementations. I have been working with and managing software teams that successfully produce high quality, user-centered products for nearly two decades - all while proudly donning my Louboutins! No reason why one can't be both smart and fashionable! Here are a few of my projects (some public some not). 
+I'm Natalie, an seasoned technical program manager who sometimes likes to code. I generally enjoy building websites and leading teams in enterprise web
+implementations using modern tools and technologies. I'm currently learning more about generative AI, machine learning and how it enhances the productivity
+of agile software projects. This has led me to dabble a bit in Python and try out creating my own GPT. I have been working with and managing software teams 
+that successfully produce high quality, user-centered products for nearly two decades.  
+Here are a few of my side-projects that keep me busy when I have down-time (some public some not). 
+ 
 
 Connect with me: &nbsp; &nbsp;<a href="https://www.linkedin.com/in/nataliecervantes/"><img height="30" src="https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
