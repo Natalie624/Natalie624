@@ -2,11 +2,13 @@
 
 ### Hi there 👋
 
-I'm Natalie, an seasoned technical program manager who sometimes likes to code. I generally enjoy building websites and leading teams in enterprise web
-implementations using modern tools and technologies. I'm currently learning more about generative AI, machine learning and how it enhances the productivity
-of agile software projects. This has led me to dabble a bit in building AI-powered product solutions. I have been working with and managing software teams 
-that successfully produce high quality, user-centered products for nearly two decades.  
-Here are a few of my side-projects that keep me busy when I have down-time (some public some not). 
+Hi, I'm Natalie, a Fractional Chief Product Officer who never stopped writing code.
+
+I spend my days helping SaaS leaders align product strategy with engineering execution, but I stay hands-on by building my own products and experimenting with the same technologies I advise on. Currently, I'm deep into generative AI and agentic workflows, exploring how they can transform both product development and the products themselves.
+
+After nearly two decades leading software teams and shipping user-centered products across mobile, web, and SaaS platforms, I've learned that the best product leaders understand what's happening under the hood. That's why I continue to dabble in my own coding projects. Not just to stay current, but because building things myself keeps me grounded in the realities my teams face.
+
+Here are a few side projects I'm working on when I'm not consulting (some public, some still in stealth mode):
  
 
 Connect with me: &nbsp; &nbsp;<a href="https://www.linkedin.com/in/nataliecervantes/"><img height="30" src="https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
