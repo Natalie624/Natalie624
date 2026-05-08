@@ -1,8 +1,6 @@
 # [![natalie cervantes header](https://raw.githubusercontent.com/Natalie624/Natalie624/main/images/githubHeader_2024.png)](https://nataliecervantes.com)
 
-### Hi there 👋
-
-Hi, I'm Natalie,
+### Hi there 👋 I'm Natalie,
 
 I spend my days helping SaaS leaders align product strategy with engineering execution. I stay hands-on by building my own products and experimenting with the same technologies I advise on. Currently, I'm deep into generative AI and agentic workflows, exploring how they can transform both product development and the products themselves.
 
